@@ -1,0 +1,1 @@
+scrapy crawl amazonscraper -o /home/sharon/Desktop/data.csv
